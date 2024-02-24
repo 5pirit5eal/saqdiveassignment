@@ -1,0 +1,4 @@
+polars
+pandas
+azure-storage-blob
+ipykernel
