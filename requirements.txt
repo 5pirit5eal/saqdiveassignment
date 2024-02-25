@@ -2,3 +2,4 @@ polars
 pandas
 azure-storage-blob
 ipykernel
+apache-beam
