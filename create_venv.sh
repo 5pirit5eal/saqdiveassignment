@@ -14,7 +14,7 @@ if [ -d ".venv" ]; then
     esac
 fi
 
-python -m venv .venv --prompt qdive
+python3.11 -m venv .venv --prompt qdive
 
 # Activate the virtual environment
 # If windows use
